@@ -1,5 +1,5 @@
 <?php
-
+// Extra documentation
 class Season 
 {
     private $seasonId;
